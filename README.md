@@ -1,4 +1,4 @@
-# Php - DB1 - Dommus ERP - Api Client
+# Dommus ERP - Api Client
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
@@ -23,7 +23,7 @@
 [link-downloads]: https://packagist.org/packages/julianobailao/php-db1-api-client
 [link-styleci]: https://styleci.io/repos/76376554
 
-Marketplace base api.
+Uma api client, desenvolvida em php, php o Domus Erp.
 
 ## Install
 
