@@ -1,0 +1,11 @@
+{
+  "cdMarca": 4,
+  "dsMarca": "SCOTCH BRITE",
+  "modelos": [
+    {
+      "dsModelo": "ESPONJA",
+      "idModelo": 1,
+      "ativo": true
+    }
+  ]
+}

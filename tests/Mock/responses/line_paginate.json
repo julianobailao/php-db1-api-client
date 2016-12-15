@@ -1,0 +1,11 @@
+{
+    "pageSize": 10,
+    "values": [
+        {
+            "dsLinhaProduto": "BAIXO GIRO-MARGEM BAIXA",
+            "cdLinhaProduto": 1
+        }
+    ],
+    "start": 0,
+    "count": 1
+}

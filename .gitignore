@@ -1,0 +1,6 @@
+/docs
+/build
+/vendor
+/src/old
+index.php
+composer.lock

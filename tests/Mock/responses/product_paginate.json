@@ -1,0 +1,100 @@
+{
+    "pageSize": 10,
+    "values": [
+        {
+            "bopermitesubst": false,
+            "informacaoComplementarNotaFiscal": "",
+            "nmResponsavel": "",
+            "dsGramatura": "",
+            "qtSeparacao": 12,
+            "codigoBarras": [
+                {
+                    "tpCodigoBarra": "P",
+                    "principal": true,
+                    "codigoBarraCaixa": "",
+                    "qtEmbalagem": 1,
+                    "codigoBarra": "0",
+                    "nrCodigobarra": 1
+                },
+                {
+                    "tpCodigoBarra": "E",
+                    "principal": true,
+                    "codigoBarraCaixa": "0",
+                    "qtEmbalagem": 1,
+                    "codigoBarra": "",
+                    "nrCodigobarra": 2
+                }
+            ],
+            "cdProduto": 401,
+            "cdPastaProduto": 1,
+            "qtDiasvalidadecritica": 1,
+            "pesoDrenado": 0.08,
+            "qtMinima": 36,
+            "cdCategoria": 0,
+            "dadosFiscaisContabeis": {
+                "grupoFiscalICMS": 52,
+                "cdGrupoContabil": 2,
+                "cdGrupoInventario": 5,
+                "ncm": "18069000",
+                "nbm": "18069000",
+                "fci": "",
+                "situacaoTributaria": "T",
+                "grupoFiscalISS": 3,
+                "grupoFiscalIPI": 1,
+                "cdContaContabil": 150,
+                "grupoFiscalIR": 2,
+                "grupoFiscalPISCOFINS": 4,
+                "cdOrigemProduto": 0
+            },
+            "local": [
+                {
+                    "cdLocal": 3,
+                    "principal": true
+                }
+            ],
+            "campoAdicionais": [
+                {
+                    "BO_VENDER_PESSOA_FISICA": ""
+                },
+                {
+                    "DS_OBSERVACAO": ""
+                }
+            ],
+            "cdMarca": 32,
+            "cdUnidadeEstoque": "UN",
+            "especificacaoTecnica": "",
+            "complemento": "",
+            "pesoBruto": 0.08,
+            "qtProdutoEmbalagem": 1,
+            "linhaProduto": 1,
+            "fornecedores": [
+                {
+                    "qtProduto": 12,
+                    "prazoEntrega": 0,
+                    "principal": false,
+                    "cdFornecedor": 3699,
+                    "cdUnidadeCompra": "FRD",
+                    "cdProdutoNoFornecedor": ""
+                }
+            ],
+            "qtDiasvalidade": 1,
+            "cdUnidadeVenda": "FRD",
+            "informacaoComplementar": "",
+            "dsResumida": "CHOCOLATE DI SAPORE GR TRA 80G",
+            "dsProduto": "CHOCOLATE DI SAPORE GRANULADO TRADICIONAL 80 G",
+            "cdGrupo": 1,
+            "qtMultiploVenda": 12,
+            "pesoLiquido": 0.08,
+            "idProduto": 5,
+            "cdsubcategoria": 29,
+            "qtMaxima": 36,
+            "tpStatus": "D",
+            "tpProduto": "R",
+            "cdModelo": 0,
+            "cdEmbalagem": 8,
+            "qtVolume": 1
+        }
+    ],
+    "start": 0,
+    "count": 1
+}

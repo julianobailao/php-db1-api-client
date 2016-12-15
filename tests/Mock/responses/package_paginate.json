@@ -1,0 +1,11 @@
+{
+    "pageSize": 10,
+    "values": [
+        {
+            "dsEmabalagem": "CAIXA",
+            "cdEmbalagem": 1
+        }
+    ],
+    "start": 0,
+    "count": 1
+}

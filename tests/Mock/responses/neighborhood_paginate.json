@@ -1,0 +1,57 @@
+{
+  "pageSize": 10,
+  "values": [
+    {
+      "nome": "CHÁCARA ALVORADA",
+      "chave": 9494,
+      "abreviatura": "CH ALVORADA"
+    },
+    {
+      "nome": "CHÁCARA ASSAÍ",
+      "chave": 9495,
+      "abreviatura": "CH ASSAÍ"
+    },
+    {
+      "nome": "CHÁCARA PAULISTA",
+      "chave": 9496,
+      "abreviatura": "CH PAULISTA"
+    },
+    {
+      "nome": "CHÁCARAS AEROPORTO",
+      "chave": 9497,
+      "abreviatura": "CH AEROPORTO"
+    },
+    {
+      "nome": "CHÁCARAS ESTILO",
+      "chave": 9498,
+      "abreviatura": "CH ESTILO"
+    },
+    {
+      "nome": "CHÁCARAS MORANGUEIRA",
+      "chave": 9499,
+      "abreviatura": "CH MORANGUEIRA"
+    },
+    {
+      "nome": "CIDADE JARDIM",
+      "chave": 9500,
+      "abreviatura": "C JARDIM"
+    },
+    {
+      "nome": "CONJUNTO HABITACIONAL CÉU AZUL",
+      "chave": 9501,
+      "abreviatura": "CJ HAB CÉU AZUL"
+    },
+    {
+      "nome": "CONJUNTO HABITACIONAL DEL PRATA",
+      "chave": 9502,
+      "abreviatura": "CJ HAB D PRATA"
+    },
+    {
+      "nome": "CONJUNTO HABITACIONAL HERMANN MORAES BARROS",
+      "chave": 9503,
+      "abreviatura": "CJ HAB H M BARROS"
+    }
+  ],
+  "start": 0,
+  "count": 232
+}

@@ -1,0 +1,21 @@
+{
+  "localidade": {
+    "ddd": 44,
+    "cep": 87000000,
+    "situacao": "codificada",
+    "codigoGia": 0,
+    "nomeCompleto": "MARINGÁ",
+    "uf": {
+      "sigla": "PR",
+      "nome": "PARANA"
+    },
+    "tipo": "municipio",
+    "nome": "MARINGÁ",
+    "chave": 6308,
+    "abreviatura": "MGF",
+    "codigoIbge": 4115200
+  },
+  "nome": "JARDIM SANTA HELENA",
+  "chave": 9608,
+  "abreviatura": "JD S HELENA"
+}

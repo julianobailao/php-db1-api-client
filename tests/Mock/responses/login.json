@@ -1,0 +1,17 @@
+{
+  "userName": "usuario",
+  "version": "RH_v1.0",
+  "token": "DA4C28C6-E3B5-4C1D-97F3-26EA3D1A3020",
+  "companies": [
+    {
+      "id": 1,
+      "businessId": 1,
+      "name": "Filial 1"
+    },
+    {
+      "id": 2,
+      "businessId": 1,
+      "name": "Filial 2"
+    }
+  ]
+}

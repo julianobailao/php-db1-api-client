@@ -1,0 +1,16 @@
+{
+  "ddd": 44,
+  "cep": 87000000,
+  "situacao": "codificada",
+  "codigoGia": 0,
+  "nomeCompleto": "MARINGÁ",
+  "uf": {
+    "sigla": "PR",
+    "nome": "PARANA"
+  },
+  "tipo": "municipio",
+  "nome": "MARINGÁ",
+  "chave": 6308,
+  "abreviatura": "MGF",
+  "codigoIbge": 4115200
+}

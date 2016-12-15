@@ -1,0 +1,15 @@
+{
+  "medidas": {
+    "largura": 0,
+    "comprimento": 0,
+    "altura": 0,
+    "volume": 0,
+    "diametro": 0
+  },
+  "tipoEmabalagem": {
+    "dsTipoEmbalagem": "MADEIRA",
+    "cdTipoEmbalagem": 2
+  },
+  "dsEmabalagem": "CAIXA",
+  "cdEmbalagem": 1
+}

@@ -1,0 +1,12 @@
+{
+    "pageSize": 10,
+    "values": [
+        {
+            "dsModelo": "ESPONJA",
+            "idModelo": 1,
+            "ativo": true
+        }
+    ],
+    "start": 0,
+    "count": 1
+}

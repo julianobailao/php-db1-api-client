@@ -1,0 +1,32 @@
+{
+  "person": {
+    "id": 3540,
+    "corporateName": "A CALEGARI NETO",
+    "code": 3540,
+    "cpfCnpj": "11435564000173"
+  },
+  "salesman": {
+    "id": 4338,
+    "name": "ANA PAULA SCARPARO DE RESENDE"
+  },
+  "paymentCondition": {
+    "description": "28 DIAS",
+    "id": 13
+  },
+  "paymentMethod": {
+    "description": "CAIXA FABIANE",
+    "id": 8,
+    "allowsNegotiation": false
+  },
+  "currency": {
+    "description": "REAL",
+    "id": "1",
+    "symbol": "R$"
+  },
+  "priceTable": null,
+  "operation": {
+    "description": "PEDIDO DE VENDA DE MERCADORIA",
+    "id": 210,
+    "code": 210
+  }
+}

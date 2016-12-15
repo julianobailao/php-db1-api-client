@@ -1,0 +1,37 @@
+{
+  "values": [
+    {
+      "charge": false,
+      "country": {
+        "description": "BRASIL",
+        "id": 1058
+      },
+      "delivery": false,
+      "street": "RUA MANAGUA 1",
+      "complement": "CASA",
+      "district": "",
+      "billing": false,
+      "id": 1,
+      "zipCode": "87114020",
+      "stateInscription": "",
+      "commercialSector": {
+        "description": "",
+        "id": "",
+        "code": ""
+      },
+      "number": "114",
+      "state": {
+        "description": "PARANÁ",
+        "id": 41,
+        "symbol": "PR"
+      },
+      "main": false,
+      "mail": false,
+      "city": {
+        "description": "MARINGÁ",
+        "id": 4115200
+      },
+      "poBox": ""
+    }
+  ]
+}

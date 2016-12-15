@@ -1,0 +1,172 @@
+{
+  "pageSize": 5,
+  "values": [
+    {
+      "cep": 87035275,
+      "complemento": "",
+      "nomeCompleto": "ESTRADA ACOPIARA",
+      "uf": {
+        "sigla": "PR",
+        "nome": "PARANA"
+      },
+      "tipo": "ESTRADA",
+      "nome": "ACOPIARA",
+      "chave": 289924,
+      "bairro": {
+        "localidade": {
+          "ddd": 44,
+          "cep": 87000000,
+          "situacao": "codificada",
+          "codigoGia": 0,
+          "nomeCompleto": "MARINGÁ",
+          "uf": {
+            "sigla": "PR",
+            "nome": "PARANA"
+          },
+          "tipo": "municipio",
+          "nome": "MARINGÁ",
+          "chave": 6308,
+          "abreviatura": "MGF",
+          "codigoIbge": 4115200
+        },
+        "nome": "JARDIM ALVORADA",
+        "chave": 9544,
+        "abreviatura": "JD ALVORADA"
+      }
+    },
+    {
+      "cep": 87033330,
+      "complemento": "",
+      "nomeCompleto": "RUA ALAGOAS",
+      "uf": {
+        "sigla": "PR",
+        "nome": "PARANA"
+      },
+      "tipo": "RUA",
+      "nome": "ALAGOAS",
+      "chave": 289938,
+      "bairro": {
+        "localidade": {
+          "ddd": 44,
+          "cep": 87000000,
+          "situacao": "codificada",
+          "codigoGia": 0,
+          "nomeCompleto": "MARINGÁ",
+          "uf": {
+            "sigla": "PR",
+            "nome": "PARANA"
+          },
+          "tipo": "municipio",
+          "nome": "MARINGÁ",
+          "chave": 6308,
+          "abreviatura": "MGF",
+          "codigoIbge": 4115200
+        },
+        "nome": "JARDIM ALVORADA",
+        "chave": 9544,
+        "abreviatura": "JD ALVORADA"
+      }
+    },
+    {
+      "cep": 87035250,
+      "complemento": "",
+      "nomeCompleto": "RUA ALEXANDRE FLEMING",
+      "uf": {
+        "sigla": "PR",
+        "nome": "PARANA"
+      },
+      "tipo": "RUA",
+      "nome": "ALEXANDRE FLEMING",
+      "chave": 289947,
+      "bairro": {
+        "localidade": {
+          "ddd": 44,
+          "cep": 87000000,
+          "situacao": "codificada",
+          "codigoGia": 0,
+          "nomeCompleto": "MARINGÁ",
+          "uf": {
+            "sigla": "PR",
+            "nome": "PARANA"
+          },
+          "tipo": "municipio",
+          "nome": "MARINGÁ",
+          "chave": 6308,
+          "abreviatura": "MGF",
+          "codigoIbge": 4115200
+        },
+        "nome": "JARDIM ALVORADA",
+        "chave": 9544,
+        "abreviatura": "JD ALVORADA"
+      }
+    },
+    {
+      "cep": 87033340,
+      "complemento": "",
+      "nomeCompleto": "RUA AMAZONAS",
+      "uf": {
+        "sigla": "PR",
+        "nome": "PARANA"
+      },
+      "tipo": "RUA",
+      "nome": "AMAZONAS",
+      "chave": 289966,
+      "bairro": {
+        "localidade": {
+          "ddd": 44,
+          "cep": 87000000,
+          "situacao": "codificada",
+          "codigoGia": 0,
+          "nomeCompleto": "MARINGÁ",
+          "uf": {
+            "sigla": "PR",
+            "nome": "PARANA"
+          },
+          "tipo": "municipio",
+          "nome": "MARINGÁ",
+          "chave": 6308,
+          "abreviatura": "MGF",
+          "codigoIbge": 4115200
+        },
+        "nome": "JARDIM ALVORADA",
+        "chave": 9544,
+        "abreviatura": "JD ALVORADA"
+      }
+    },
+    {
+      "cep": 87033420,
+      "complemento": "- DE 1292/1293 AO FIM",
+      "nomeCompleto": "RUA AMÉRICO BRASILIENSE - DE 1292/1293 AO FIM",
+      "uf": {
+        "sigla": "PR",
+        "nome": "PARANA"
+      },
+      "tipo": "RUA",
+      "nome": "AMÉRICO BRASILIENSE",
+      "chave": 289973,
+      "bairro": {
+        "localidade": {
+          "ddd": 44,
+          "cep": 87000000,
+          "situacao": "codificada",
+          "codigoGia": 0,
+          "nomeCompleto": "MARINGÁ",
+          "uf": {
+            "sigla": "PR",
+            "nome": "PARANA"
+          },
+          "tipo": "municipio",
+          "nome": "MARINGÁ",
+          "chave": 6308,
+          "abreviatura": "MGF",
+          "codigoIbge": 4115200
+        },
+        "nome": "JARDIM ALVORADA",
+        "chave": 9544,
+        "abreviatura": "JD ALVORADA"
+      }
+    }
+  ],
+  "start": 0,
+  "count": 86
+}

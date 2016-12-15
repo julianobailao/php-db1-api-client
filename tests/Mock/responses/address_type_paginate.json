@@ -1,0 +1,32 @@
+{
+  "pageSize": 5,
+  "values": [
+    {
+      "nome": "ACAMPAMENTO",
+      "chave": 645,
+      "abreviatura": "ACAMP"
+    },
+    {
+      "nome": "ACESSO",
+      "chave": 1,
+      "abreviatura": "AC"
+    },
+    {
+      "nome": "ADRO",
+      "chave": 2,
+      "abreviatura": "AD"
+    },
+    {
+      "nome": "AEROPORTO",
+      "chave": 501,
+      "abreviatura": "AER"
+    },
+    {
+      "nome": "ALAMEDA",
+      "chave": 4,
+      "abreviatura": "AL"
+    }
+  ],
+  "start": 0,
+  "count": 314
+}

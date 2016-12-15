@@ -1,0 +1,242 @@
+{
+  "gender": "O",
+  "rgEmission": "",
+  "personISS": 1,
+  "personIPI": 5,
+  "personType": "J",
+  "personINSS": 0,
+  "personICMS": 2,
+  "rgNumber": "",
+  "personIR": 1,
+  "fantasy": "BAR CALEGARI",
+  "customerGroup": {
+    "description": "CLIENTES PARANÁ",
+    "id": 1,
+    "code": 1
+  },
+  "spouse": {
+    "rgEmission": "",
+    "cpf": "",
+    "rgNumber": "",
+    "marital": "O",
+    "communion": "N",
+    "name": "",
+    "born": "",
+    "rgDispatcher": ""
+  },
+  "addresses": [
+    {
+      "charge": false,
+      "country": {
+        "description": "BRASIL",
+        "id": 1058
+      },
+      "delivery": false,
+      "street": "RUA PARÁ - DE 1002/1003 AO FIM",
+      "complement": "casa",
+      "district": "",
+      "billing": false,
+      "id": 3,
+      "zipCode": "87033140",
+      "stateInscription": "ISENTO",
+      "commercialSector": {
+        "description": "",
+        "id": "",
+        "code": ""
+      },
+      "number": "111",
+      "state": {
+        "description": "PARANÁ",
+        "id": 41,
+        "symbol": "PR"
+      },
+      "main": false,
+      "mail": false,
+      "city": {
+        "description": "MARINGÁ",
+        "id": 4115200
+      },
+      "poBox": ""
+    },
+    {
+      "charge": false,
+      "country": {
+        "description": "BRASIL",
+        "id": 1058
+      },
+      "delivery": false,
+      "street": "RUA PARÁ - DE 1002/1003 AO FIM",
+      "complement": "casa",
+      "district": "",
+      "billing": false,
+      "id": 4,
+      "zipCode": "87033140",
+      "stateInscription": "ISENTO",
+      "commercialSector": {
+        "description": "",
+        "id": "",
+        "code": ""
+      },
+      "number": "111",
+      "state": {
+        "description": "PARANÁ",
+        "id": 41,
+        "symbol": "PR"
+      },
+      "main": false,
+      "mail": false,
+      "city": {
+        "description": "MARINGÁ",
+        "id": 4115200
+      },
+      "poBox": ""
+    },
+    {
+      "charge": false,
+      "country": {
+        "description": "BRASIL",
+        "id": 1058
+      },
+      "delivery": false,
+      "street": "TRAVESSA TUBARÃO",
+      "complement": "",
+      "district": "",
+      "billing": false,
+      "id": 5,
+      "zipCode": "87025200",
+      "stateInscription": "ISENTO",
+      "commercialSector": {
+        "description": "",
+        "id": "",
+        "code": ""
+      },
+      "number": "231",
+      "state": {
+        "description": "PARANÁ",
+        "id": 41,
+        "symbol": "PR"
+      },
+      "main": false,
+      "mail": false,
+      "city": {
+        "description": "MARINGÁ",
+        "id": 4115200
+      },
+      "poBox": ""
+    },
+    {
+      "charge": false,
+      "country": {
+        "description": "BRASIL",
+        "id": 1058
+      },
+      "delivery": false,
+      "street": "RUA MANAGUA 2",
+      "complement": "",
+      "district": "VILA MORANGUEIRA",
+      "billing": false,
+      "id": 2,
+      "zipCode": "87040250",
+      "stateInscription": "ISENTO",
+      "commercialSector": {
+        "description": "",
+        "id": "",
+        "code": ""
+      },
+      "number": "114",
+      "state": {
+        "description": "PARANÁ",
+        "id": 41,
+        "symbol": "PR"
+      },
+      "main": false,
+      "mail": false,
+      "city": {
+        "description": "MARINGÁ",
+        "id": 4115200
+      },
+      "poBox": ""
+    },
+    {
+      "charge": true,
+      "country": {
+        "description": "BRASIL",
+        "id": 1058
+      },
+      "delivery": true,
+      "street": "RUA MANAGUA 1",
+      "complement": "CASA",
+      "district": "TESTE",
+      "billing": true,
+      "id": 1,
+      "zipCode": "87114020",
+      "stateInscription": "ISENTO",
+      "commercialSector": {
+        "description": "VENDA DIRETA",
+        "id": "16",
+        "code": "16"
+      },
+      "number": "114",
+      "state": {
+        "description": "PARANÁ",
+        "id": 41,
+        "symbol": "PR"
+      },
+      "main": true,
+      "mail": true,
+      "city": {
+        "description": "MARINGÁ",
+        "id": 4115200
+      },
+      "poBox": ""
+    }
+  ],
+  "contacts": [
+    {
+      "ddi": 55,
+      "ddd": 43,
+      "extension": "",
+      "id": 1,
+      "contactType": "C",
+      "main": true,
+      "phone": 35323673
+    },
+    {
+      "ddi": 423,
+      "ddd": 12,
+      "extension": "1412",
+      "id": 2,
+      "contactType": "R",
+      "main": false,
+      "phone": 1245489799
+    }
+  ],
+  "id": 3540,
+  "confirmed": false,
+  "personPISCOFINS": 1,
+  "email": "luciana@db1.com.br",
+  "references": [],
+  "foundation": "2010-01-04",
+  "name": "A CALEGARI NETO",
+  "code": 3540,
+  "rgDispatcher": "",
+  "document": "11435564000173",
+  "creation": "2011-12-27",
+  "emailNFE": "luciana@db1.com.br",
+  "partners": [
+    {
+      "percentage": 0,
+      "occupation": 1,
+      "id": 1,
+      "name": "DFSDFASDF",
+      "document": "07505774956"
+    },
+    {
+      "percentage": 0,
+      "occupation": 2,
+      "id": 2,
+      "name": "SDFSDFASDFASF",
+      "document": "07505774956"
+    }
+  ]
+}

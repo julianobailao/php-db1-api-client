@@ -1,0 +1,203 @@
+{
+  "pageSize": 10,
+  "values": [
+    {
+      "mainAddress": {
+        "country": "BRASIL",
+        "street": "RUA IMIGRANTES",
+        "complement": "",
+        "zipCode": "19865000",
+        "stateInscription": "755006897117",
+        "number": "113",
+        "state": "PR",
+        "city": "CAMBARÁ"
+      },
+      "fantasy": "MERCADO DA PATY",
+      "mainPhone": null,
+      "id": 11774,
+      "corporateName": "A & D SUPERMERCADO LTDA ME",
+      "code": 11774,
+      "cpfCnpj": "14500252000194"
+    },
+    {
+      "mainAddress": {
+        "country": "BRASIL",
+        "street": "RUA PARANÁ",
+        "complement": "",
+        "zipCode": "84970000",
+        "stateInscription": "9046815200",
+        "number": "371",
+        "state": "PR",
+        "city": "SANTANA DO ITARARÍ"
+      },
+      "fantasy": "CASA DE CARNES E AÇOUGUE PAIVA",
+      "mainPhone": {
+        "ddi": 55,
+        "ddd": 43,
+        "phoneNumber": 91780602,
+        "phoneType": "CELULAR"
+      },
+      "id": 7195,
+      "corporateName": "A A CARVALHO - ACOUGUE",
+      "code": 7195,
+      "cpfCnpj": "10600366000155"
+    },
+    {
+      "mainAddress": {
+        "country": "BRASIL",
+        "street": "RUA FORTALEZA",
+        "complement": "",
+        "zipCode": "18960000",
+        "stateInscription": "212065600119",
+        "number": "133",
+        "state": "SP",
+        "city": "BERNARDINO DE CAMPOS"
+      },
+      "fantasy": "MINIMERCADO BARONEZA",
+      "mainPhone": {
+        "ddi": 55,
+        "ddd": 14,
+        "phoneNumber": 81489576,
+        "phoneType": "CELULAR"
+      },
+      "id": 7400,
+      "corporateName": "A A DA SILVA MINIMERCADO - ME",
+      "code": 7400,
+      "cpfCnpj": "11086433000128"
+    },
+    {
+      "mainAddress": {
+        "country": "BRASIL",
+        "street": "RUA PRIMEIRO DE MAIO",
+        "complement": "",
+        "zipCode": "18740000",
+        "stateInscription": "685.079.127.110",
+        "number": "222",
+        "state": "SP",
+        "city": "TAQUARITUBA"
+      },
+      "fantasy": "SUPERMERCADO MICHELE",
+      "mainPhone": {
+        "ddi": 55,
+        "ddd": 14,
+        "phoneNumber": 37623035,
+        "phoneType": "COMERCIAL"
+      },
+      "id": 226,
+      "corporateName": "A A DE LIMA SANTOS - ME",
+      "code": 226,
+      "cpfCnpj": "08205557000170"
+    },
+    {
+      "mainAddress": {
+        "country": "BRASIL",
+        "street": "RUA JULIO ANTONIO DOGNANI",
+        "complement": "",
+        "zipCode": "18740000",
+        "stateInscription": "685089595113",
+        "number": "206",
+        "state": "SP",
+        "city": "TAQUARITUBA"
+      },
+      "fantasy": "GOBBO MERCEARIA",
+      "mainPhone": {
+        "ddi": 55,
+        "ddd": 14,
+        "phoneNumber": 37622143,
+        "phoneType": "COMERCIAL"
+      },
+      "id": 4132,
+      "corporateName": "A A GOBBO MERCEARIA ME",
+      "code": 4132,
+      "cpfCnpj": "11118343000171"
+    },
+    {
+      "mainAddress": {
+        "country": "BRASIL",
+        "street": "AV SIQUEIRA PINTO",
+        "complement": "",
+        "zipCode": "86490000",
+        "stateInscription": "9043953408",
+        "number": "688",
+        "state": "PR",
+        "city": "RIBEIRÃO DO PINHAL"
+      },
+      "fantasy": "MINIMERCADO NOSSA SENHORA APARECIDA",
+      "mainPhone": null,
+      "id": 2592,
+      "corporateName": "A ALVES DE OLIVEIRA MINIMERCADO",
+      "code": 2592,
+      "cpfCnpj": "09548304000162"
+    },
+    {
+      "mainAddress": {
+        "country": "BRASIL",
+        "street": "RUA JACARANDÚ",
+        "complement": "FRENTE 459",
+        "zipCode": "84268220",
+        "stateInscription": "9061157511",
+        "number": "SN",
+        "state": "PR",
+        "city": "TELÊMACO BORBA"
+      },
+      "fantasy": "SUPERMERCADO ALANE",
+      "mainPhone": null,
+      "id": 11651,
+      "corporateName": "A AZAMBUJA PINTO & CIA LTDA ME",
+      "code": 11651,
+      "cpfCnpj": "16985146000173"
+    },
+    {
+      "mainAddress": {
+        "country": "BRASIL",
+        "street": "PRAÇA ERASMO CORDEIRO",
+        "complement": "",
+        "zipCode": "86490000",
+        "stateInscription": "9028134204",
+        "number": "114",
+        "state": "PR",
+        "city": "RIBEIRÃO DO PINHAL"
+      },
+      "fantasy": "BAR SAO JOSE",
+      "mainPhone": null,
+      "id": 2575,
+      "corporateName": "A B GODOI",
+      "code": 2575,
+      "cpfCnpj": "05698334000102"
+    },
+    {
+      "mainAddress": {
+        "country": "BRASIL",
+        "street": "R BENTO FERRAZ DE CAMPOS",
+        "complement": "",
+        "zipCode": "86300000",
+        "stateInscription": "9063700344",
+        "number": "460",
+        "state": "PR",
+        "city": "CORNÉLIO PROCÓPIO"
+      },
+      "fantasy": "SUPERMERCADO CENTER",
+      "mainPhone": null,
+      "id": 11388,
+      "corporateName": "A B SANGUETA & CIA LTDA",
+      "code": 11388,
+      "cpfCnpj": "02832179000926"
+    },
+    {
+      "mainAddress": null,
+      "fantasy": "A B SANGUETA & CIA LTDA - CD",
+      "mainPhone": {
+        "ddi": 55,
+        "ddd": 43,
+        "phoneNumber": 32529065,
+        "phoneType": "COMERCIAL"
+      },
+      "id": 8970,
+      "corporateName": "A B SANGUETA & CIA LTDA",
+      "code": 8970,
+      "cpfCnpj": "02832179000764"
+    }
+  ],
+  "start": 0,
+  "count": 8690
+}

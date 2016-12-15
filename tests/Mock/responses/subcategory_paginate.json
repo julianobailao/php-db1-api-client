@@ -1,0 +1,11 @@
+{
+    "pageSize": 10,
+    "values": [
+        {
+            "cdSubCategoria": 1,
+            "dsSubCategoria": "ACUCARES"
+        }
+    ],
+    "start": 0,
+    "count": 1
+}

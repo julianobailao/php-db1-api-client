@@ -1,0 +1,47 @@
+{
+  "pageSize": 10,
+  "values": [
+    {
+      "sigla": "AC",
+      "nome": "Acre"
+    },
+    {
+      "sigla": "AL",
+      "nome": "Alagoas"
+    },
+    {
+      "sigla": "AP",
+      "nome": "Amapá"
+    },
+    {
+      "sigla": "AM",
+      "nome": "Amazonas"
+    },
+    {
+      "sigla": "BA",
+      "nome": "Bahia"
+    },
+    {
+      "sigla": "CE",
+      "nome": "Ceará"
+    },
+    {
+      "sigla": "DF",
+      "nome": "Distrito Federal"
+    },
+    {
+      "sigla": "ES",
+      "nome": "Espírito Santo"
+    },
+    {
+      "sigla": "GO",
+      "nome": "Goiás"
+    },
+    {
+      "sigla": "MA",
+      "nome": "Maranhão"
+    }
+  ],
+  "start": 0,
+  "count": 27
+}

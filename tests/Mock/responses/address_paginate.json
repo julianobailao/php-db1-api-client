@@ -1,0 +1,102 @@
+{
+  "pageSize": 5,
+  "values": [
+    {
+      "cep": "69901365",
+      "country": {
+        "description": "BRASIL",
+        "id": 1058
+      },
+      "street": "RODOVIA AC-040",
+      "id": 13,
+      "state": {
+        "description": "ACRE",
+        "id": 12,
+        "symbol": "AC"
+      },
+      "city": {
+        "description": "RIO BRANCO",
+        "id": 1200401,
+        "state": null
+      }
+    },
+    {
+      "cep": "69910550",
+      "country": {
+        "description": "BRASIL",
+        "id": 1058
+      },
+      "street": "RUA ACÁCIAS",
+      "id": 14,
+      "state": {
+        "description": "ACRE",
+        "id": 12,
+        "symbol": "AC"
+      },
+      "city": {
+        "description": "RIO BRANCO",
+        "id": 1200401,
+        "state": null
+      }
+    },
+    {
+      "cep": "69912600",
+      "country": {
+        "description": "BRASIL",
+        "id": 1058
+      },
+      "street": "AVENIDA NAÇÕES UNIDAS",
+      "id": 824,
+      "state": {
+        "description": "ACRE",
+        "id": 12,
+        "symbol": "AC"
+      },
+      "city": {
+        "description": "RIO BRANCO",
+        "id": 1200401,
+        "state": null
+      }
+    },
+    {
+      "cep": "69908620",
+      "country": {
+        "description": "BRASIL",
+        "id": 1058
+      },
+      "street": "AVENIDA NAÇÕES UNIDAS",
+      "id": 825,
+      "state": {
+        "description": "ACRE",
+        "id": 12,
+        "symbol": "AC"
+      },
+      "city": {
+        "description": "RIO BRANCO",
+        "id": 1200401,
+        "state": null
+      }
+    },
+    {
+      "cep": "69912305",
+      "country": {
+        "description": "BRASIL",
+        "id": 1058
+      },
+      "street": "RUA NOVA",
+      "id": 826,
+      "state": {
+        "description": "ACRE",
+        "id": 12,
+        "symbol": "AC"
+      },
+      "city": {
+        "description": "RIO BRANCO",
+        "id": 1200401,
+        "state": null
+      }
+    }
+  ],
+  "start": 0,
+  "count": 612802
+}

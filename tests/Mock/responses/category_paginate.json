@@ -1,0 +1,11 @@
+{
+    "pageSize": 10,
+    "values": [
+        {
+            "cdCategoria": 1,
+            "dsCategoria": "MARCA PROPRIA"
+        }
+    ],
+    "start": 0,
+    "count": 1
+}

@@ -1,0 +1,30 @@
+{
+  "cdCategoria": 1,
+  "dsCategoria": "1",
+  "subCategorias": [
+    {
+      "cdSubCategoria": 1,
+      "dsSubCategoria": "ACUCARES"
+    },
+    {
+      "cdSubCategoria": 2,
+      "dsSubCategoria": "ALCOOL"
+    },
+    {
+      "cdSubCategoria": 3,
+      "dsSubCategoria": "ACHOCOLATADOS EM PO"
+    },
+    {
+      "cdSubCategoria": 4,
+      "dsSubCategoria": "CAFES"
+    },
+    {
+      "cdSubCategoria": 5,
+      "dsSubCategoria": "REFRIGERANTES"
+    },
+    {
+      "cdSubCategoria": 6,
+      "dsSubCategoria": "OUTROS"
+    }
+  ]
+}

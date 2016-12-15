@@ -1,0 +1,27 @@
+{
+  "items": [
+    {
+      "boDesconsideraICMS": false,
+      "vlUnitario": 2.215,
+      "vlConfins": 0.44,
+      "vlFrete": 0,
+      "qtProduto": 2,
+      "vlComissao": 0,
+      "vlCreditoSt": 0,
+      "pcLucro": -23.73,
+      "pcParticipacao": 100,
+      "vlImpostos": 1.68,
+      "vlPis": 0.44,
+      "vlCMV": 3.8012,
+      "cdGrupo": 1,
+      "vlDevolucao": 0,
+      "vlLucro": -1.0512,
+      "vlIcmsAntecipacao": 0,
+      "vlICMS": 0.8,
+      "vlReceita": 4.43,
+      "vlJuros": 0,
+      "vlReceitaLiquida": 4.43,
+      "dsGrupo": "ACUCAR CRISTAL CERTANO 5 KGS ALTERADO PARA TESTS DE COMPRIMETO DA DESCRIÇÃO PARA - "
+    }
+  ]
+}

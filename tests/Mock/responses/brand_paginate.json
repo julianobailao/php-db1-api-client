@@ -1,0 +1,11 @@
+{
+    "pageSize": 10,
+    "values": [
+        {
+            "cdMarca": 4,
+            "dsMarca": "SCOTCH BRITE"
+        }
+    ],
+    "start": 0,
+    "count": 1
+}
