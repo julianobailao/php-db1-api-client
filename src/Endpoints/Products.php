@@ -63,6 +63,7 @@ class Products extends Endpoint implements GetContract, CreationContract
     public function save(ProductData $data)
     {
         $id = $data->getId();
+
         return $this->run($id == null ? 'POST' : 'PUT', 'pedidovenda-rest/pessoas'.($id > 0 ? '/'.$id : null), ['json' => $data->toArray()]);
     }
 

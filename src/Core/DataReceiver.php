@@ -2,8 +2,6 @@
 
 namespace JulianoBailao\DomusApi\Core;
 
-use JulianoBailao\DomusApi\Core\Endpoint;
-
 class DataReceiver
 {
     /**
