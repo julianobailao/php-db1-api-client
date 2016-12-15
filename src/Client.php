@@ -185,11 +185,6 @@ class Client
     public function __call($method, array $args)
     {
         $class = 'JulianoBailao\DomusApi\Endpoints\\'.ucfirst(strtolower($method));
-
-        if (!class_exists($class)) {
-            throw new InvalidApiEndPointException("The domus api $method endpoint don't exists.", 1);
-        }
-
         array_unshift($args, $this);
 
         return call_user_func_array([new \ReflectionClass($class), 'newInstance'], $args);

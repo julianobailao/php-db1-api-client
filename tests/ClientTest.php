@@ -32,14 +32,6 @@ class ClientTest extends TestCase
         $this->assertEquals($client->getBranchId(), FakeHandler::getJson('branch')->id);
     }
 
-    public function testInvalidApiEndPointException()
-    {
-        $this->expectException(InvalidApiEndPointException::class);
-
-        $client = new Client('foo.bar', '8080', 'username', 'password');
-        $client->inexistentEndpoint();
-    }
-
     public function testCall()
     {
         $client = new Client('foo.bar', '8080', 'username', 'password');
