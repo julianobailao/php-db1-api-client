@@ -16,7 +16,7 @@ interface CreationContract
     /**
      * Update a existing record.
      *
-     * @param int $id
+     * @param int   $id
      * @param array $data
      *
      * @return stdObject

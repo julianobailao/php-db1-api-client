@@ -2,8 +2,8 @@
 
 namespace JulianoBailao\DomusApi\Endpoints;
 
-use JulianoBailao\DomusApi\Contracts\GetContract;
 use JulianoBailao\DomusApi\Contracts\CreationContract;
+use JulianoBailao\DomusApi\Contracts\GetContract;
 use JulianoBailao\DomusApi\Core\Endpoint;
 use JulianoBailao\DomusApi\Data\PersonData;
 

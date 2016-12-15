@@ -32,9 +32,10 @@ class DataReceiver
      *
      * @param string $method
      * @param string $uri
-     * @param int $id
+     * @param int    $id
      */
-    public function __construct(Endpoint $endpoint, $id = null){
+    public function __construct(Endpoint $endpoint, $id = null)
+    {
         $this->id = $id;
         $this->endpoint = $endpoint;
         $this->data = new \stdClass();
@@ -113,7 +114,7 @@ class DataReceiver
      * Set a attribute with array values.
      *
      * @param string $method
-     * @param  aray $args
+     * @param array  $args
      *
      * @return stdClass
      */

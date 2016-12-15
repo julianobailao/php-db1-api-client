@@ -49,7 +49,7 @@ abstract class Endpoint
      * Execute a list request.
      *
      * @param string $point
-     * @param array $query
+     * @param array  $query
      *
      * @return stdClass
      */

@@ -38,7 +38,8 @@ class Products extends Endpoint implements GetContract, CreationContract
      *
      * @return ProductData
      */
-    public function create(){
+    public function create()
+    {
         return new ProductData($this);
     }
 
@@ -47,7 +48,8 @@ class Products extends Endpoint implements GetContract, CreationContract
      *
      * @return ProductData
      */
-    public function update($id){
+    public function update($id)
+    {
         return new ProductData($this, $id);
     }
 

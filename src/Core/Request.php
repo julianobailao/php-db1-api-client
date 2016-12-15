@@ -3,8 +3,6 @@
 namespace JulianoBailao\DomusApi\Core;
 
 use GuzzleHttp\Client;
-use GuzzleHttp\Exception\ClientException;
-use Guzzle\Http\Exception\ClientErrorResponseException;
 
 class Request
 {
@@ -26,7 +24,7 @@ class Request
     }
 
     /**
-     * Run the request
+     * Run the request.
      *
      * @param string $method
      * @param string $url

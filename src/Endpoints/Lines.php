@@ -4,7 +4,6 @@ namespace JulianoBailao\DomusApi\Endpoints;
 
 use JulianoBailao\DomusApi\Contracts\GetContract;
 use JulianoBailao\DomusApi\Core\Endpoint;
-use JulianoBailao\DomusApi\Endpoints\Secondary\Subcategories;
 
 class Lines extends Endpoint implements GetContract
 {
