@@ -48,7 +48,9 @@ class DataReceiver
      */
     public function fill(array $data)
     {
-        $this->data = $data;
+        foreach ($data as $key => $value) {
+            $this->data->{$key} = $value;
+        }
 
         return $this;
     }
@@ -106,18 +108,5 @@ class DataReceiver
     public function __get($name)
     {
         return $this->data->{$name};
-    }
-
-    /**
-     * Set a attribute with array values.
-     *
-     * @param string $method
-     * @param array  $args
-     *
-     * @return stdClass
-     */
-    public function __call($method, $args)
-    {
-        return $this->data->{$method} = (object) $args[0];
     }
 }
