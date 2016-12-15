@@ -20,7 +20,7 @@ class FakeHandler
         return HandlerStack::create(new MockHandler($responses));
     }
 
-    public function getJson($key)
+    public static function getJson($key)
     {
         return json_decode(file_get_contents(__DIR__.'/responses/'.$key.'.json'));
     }
