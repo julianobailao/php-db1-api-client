@@ -18,7 +18,7 @@ class Products extends Endpoint implements GetContract, CreationContract
      */
     public function paginate(array $query = [])
     {
-        return $this->list('operacional/produtos', $query);
+        return $this->page('operacional/produtos', $query);
     }
 
     /**

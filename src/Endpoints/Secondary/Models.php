@@ -34,7 +34,7 @@ class Models extends Endpoint implements GetContract
      */
     public function paginate(array $query = [])
     {
-        return $this->list('operacional/marcas/'.$this->brandId.'/modelos', $query);
+        return $this->page('operacional/marcas/'.$this->brandId.'/modelos', $query);
     }
 
     /**

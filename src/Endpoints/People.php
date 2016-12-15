@@ -18,7 +18,7 @@ class People extends Endpoint implements GetContract, CreationContract
      */
     public function paginate(array $query = [])
     {
-        return $this->list('operacional/pessoas', $query);
+        return $this->page('operacional/pessoas', $query);
     }
 
     /**

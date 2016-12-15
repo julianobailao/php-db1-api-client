@@ -34,7 +34,7 @@ class Subcategories extends Endpoint implements GetContract
      */
     public function paginate(array $query = [])
     {
-        return $this->list('operacional/categorias/'.$this->categoryId.'/subcategorias', $query);
+        return $this->page('operacional/categorias/'.$this->categoryId.'/subcategorias', $query);
     }
 
     /**

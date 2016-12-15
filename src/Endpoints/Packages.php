@@ -16,7 +16,7 @@ class Packages extends Endpoint implements GetContract
      */
     public function paginate(array $query = [])
     {
-        return $this->list('operacional/embalagens', $query);
+        return $this->page('operacional/embalagens', $query);
     }
 
     /**

@@ -16,7 +16,7 @@ class Addresses extends Endpoint
      */
     public function paginate(array $query = [])
     {
-        return $this->list('operacional/enderecos', $query);
+        return $this->page('operacional/enderecos', $query);
     }
 
     /**
@@ -28,7 +28,7 @@ class Addresses extends Endpoint
      */
     public function states(array $query = [])
     {
-        return $this->list('operacional/enderecos/ufs', $query);
+        return $this->page('operacional/enderecos/ufs', $query);
     }
 
     /**
@@ -40,7 +40,7 @@ class Addresses extends Endpoint
      */
     public function types(array $query = [])
     {
-        return $this->list('operacional/enderecos/tipos', $query);
+        return $this->page('operacional/enderecos/tipos', $query);
     }
 
     /**

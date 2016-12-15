@@ -46,14 +46,14 @@ abstract class Endpoint
     }
 
     /**
-     * Execute a list request.
+     * Execute a page request.
      *
      * @param string $point
      * @param array  $query
      *
      * @return stdClass
      */
-    protected function list($point, array $query = [])
+    protected function page($point, array $query = [])
     {
         $query['pageSize'] = isset($query['pageSize']) ? $query['pageSize'] : 100;
         $query['start'] = isset($query['start']) ? $query['start'] : 0;

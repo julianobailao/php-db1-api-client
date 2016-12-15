@@ -35,7 +35,7 @@ class Neighborhoods extends Endpoint implements GetContract
      */
     public function paginate(array $query = [])
     {
-        return $this->list('operacional/enderecos/localidade/'.$this->cityId.'/bairros', $query);
+        return $this->page('operacional/enderecos/localidade/'.$this->cityId.'/bairros', $query);
     }
 
     /**

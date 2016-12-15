@@ -43,7 +43,7 @@ class Streets extends Endpoint implements GetContract
      */
     public function paginate(array $query = [])
     {
-        return $this->list(
+        return $this->page(
             'operacional/enderecos/localidade/'.$this->cityId.'/bairros/'.$this->neighborhoodId.'/logradouro',
             $query
         );

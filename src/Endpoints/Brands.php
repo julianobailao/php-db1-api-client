@@ -17,7 +17,7 @@ class Brands extends Endpoint implements GetContract
      */
     public function paginate(array $query = [])
     {
-        return $this->list('operacional/marcas', $query);
+        return $this->page('operacional/marcas', $query);
     }
 
     /**

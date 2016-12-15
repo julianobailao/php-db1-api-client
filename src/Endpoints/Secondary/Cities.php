@@ -16,7 +16,7 @@ class Cities extends Endpoint implements GetContract
      */
     public function paginate(array $query = [])
     {
-        return $this->list('operacional/enderecos/localidade', $query);
+        return $this->page('operacional/enderecos/localidade', $query);
     }
 
     /**

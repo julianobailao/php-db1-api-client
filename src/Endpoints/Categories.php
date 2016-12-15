@@ -17,7 +17,7 @@ class Categories extends Endpoint implements GetContract
      */
     public function paginate(array $query = [])
     {
-        return $this->list('operacional/categorias', $query);
+        return $this->page('operacional/categorias', $query);
     }
 
     /**

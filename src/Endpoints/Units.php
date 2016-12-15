@@ -16,7 +16,7 @@ class Units extends Endpoint implements GetContract
      */
     public function paginate(array $query = [])
     {
-        return $this->list('operacional/unidades', $query);
+        return $this->page('operacional/unidades', $query);
     }
 
     /**

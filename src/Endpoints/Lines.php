@@ -16,7 +16,7 @@ class Lines extends Endpoint implements GetContract
      */
     public function paginate(array $query = [])
     {
-        return $this->list('operacional/linhasproduto', $query);
+        return $this->page('operacional/linhasproduto', $query);
     }
 
     /**
