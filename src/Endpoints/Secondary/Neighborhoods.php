@@ -81,6 +81,10 @@ class Neighborhoods extends Endpoint implements GetContract
      */
     public function save(DataReceiver $data)
     {
-        return $this->run('POST', 'operacional/enderecos/localidade/'.$this->cityId.'/bairros', ['json' => $data->toArray()]);
+        return $this->run(
+            'POST',
+            'operacional/enderecos/localidade/'.$this->cityId.'/bairros',
+            ['json' => $data->toArray()]
+        );
     }
 }

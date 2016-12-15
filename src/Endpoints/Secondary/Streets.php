@@ -43,7 +43,10 @@ class Streets extends Endpoint implements GetContract
      */
     public function paginate(array $query = [])
     {
-        return $this->list('operacional/enderecos/localidade/'.$this->cityId.'/bairros/'.$this->neighborhoodId.'/logradouro', $query);
+        return $this->list(
+            'operacional/enderecos/localidade/'.$this->cityId.'/bairros/'.$this->neighborhoodId.'/logradouro',
+            $query
+        );
     }
 
     /**
@@ -55,7 +58,10 @@ class Streets extends Endpoint implements GetContract
      */
     public function get($id)
     {
-        return $this->run('GET', 'operacional/enderecos/localidade/'.$this->cityId.'/bairros/'.$this->neighborhoodId.'/logradouro/'.$id);
+        return $this->run(
+            'GET',
+            'operacional/enderecos/localidade/'.$this->cityId.'/bairros/'.$this->neighborhoodId.'/logradouro/'.$id
+        );
     }
 
     /**
@@ -77,6 +83,10 @@ class Streets extends Endpoint implements GetContract
      */
     public function save(DataReceiver $data)
     {
-        return $this->run('POST', 'operacional/enderecos/localidade/'.$this->cityId.'/bairros/'.$this->neighborhoodId.'/logradouro', ['json' => $data->toArray()]);
+        return $this->run(
+            'POST',
+            'operacional/enderecos/localidade/'.$this->cityId.'/bairros/'.$this->neighborhoodId.'/logradouro',
+            ['json' => $data->toArray()]
+        );
     }
 }
