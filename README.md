@@ -36,7 +36,13 @@ $ composer require julianobailao/php-db1-api-client
 ## Usage
 
 ```php
-// to do
+use JulianoBailao\DomusApi\Client;
+
+$client = new Client('foo.bar', '8080', 'username', 'password');
+
+// Operações de produtos
+// Paginação de produtos
+$produtos = $client->products()->paginate(['pageSize' => 100, 'start' => 0]);
 ```
 
 ## License
