@@ -23,7 +23,7 @@
 [link-downloads]: https://packagist.org/packages/julianobailao/php-db1-api-client
 [link-styleci]: https://styleci.io/repos/76376554
 
-Uma api client, desenvolvida em php, php o Domus Erp.
+Uma api client, desenvolvida em php, para o Domus Erp.
 
 ## Install
 
