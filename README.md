@@ -44,19 +44,24 @@ $client = new Client('foo.bar', '8080', 'username', 'password');
 $client->setBranch(2); // por padrao a filial sempre será 1
 
 // Operações de produtos
+
 // Paginação de produtos
 $products = $client->products()->paginate(['pageSize' => 100, 'start' => 0]);
+
 // Buscando um produto pelo id
 $product = $client->products()->get(12345);
+
 // Criando um novo produto
 $product = $client->products()->create();
 $product->title = 'blablabla';
 $product->fieldTitle = 'field value';
 $save = $product->save();
+
 // Atualizando um produto
 $product = $client->products()->update(12345);
 $product->title = 'blablabla';
 $update = $product->save();
+
 // Excluindo um produto
 $delete = $client->product()->delete();
 ```
