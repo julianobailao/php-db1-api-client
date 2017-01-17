@@ -38,3 +38,7 @@ Por favor veja a [Wiki](https://github.com/julianobailao/php-db1-api-client/wiki
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+
+## Doações
+Se este projeto o ajudou, por favor, considere me pagar um café.
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LDRJCTGY2YXYJ)
