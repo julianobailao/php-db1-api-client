@@ -16,7 +16,7 @@
 [ico-code-quality]:https://img.shields.io/scrutinizer/g/julianobailao/php-db1-api-client.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/julianobailao/php-db1-api-client.svg?style=flat-square
 [ico-styleci]: https://styleci.io/repos/76376554/shield
-[ico-donate]:https://img.shields.io/badge/Donate-PayPal-green.svg?style=flat-square
+[ico-donate]:https://img.shields.io/badge/Donate-PayPal-brightgreen.svg?style=flat-square
 
 [link-packagist]: https://packagist.org/packages/julianobailao/php-db1-api-client
 [link-travis]: https://travis-ci.org/julianobailao/php-db1-api-client
