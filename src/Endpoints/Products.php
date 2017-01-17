@@ -66,7 +66,7 @@ class Products extends Endpoint implements GetContract, CreationContract
 
         return $this->run(
             $id == null ? 'POST' : 'PUT',
-            'pedidovenda-rest/pessoas'.($id > 0 ? '/'.$id : null),
+            'operacional/produtos'.($id > 0 ? '/'.$id : null),
             ['json' => $data->toArray()]
         );
     }
@@ -80,6 +80,16 @@ class Products extends Endpoint implements GetContract, CreationContract
      */
     public function delete($id)
     {
-        return $this->run('DELETE', 'pedidovenda-rest/pessoas/'.$id);
+        return $this->run('DELETE', 'operacional/produtos/'.$id);
+    }
+
+    /**
+     * Get the product price table info.
+     *
+     * @return ProductPriceTable
+     */
+    public function priceTableInfo()
+    {
+        return new ProductPriceTable($this->client);
     }
 }
