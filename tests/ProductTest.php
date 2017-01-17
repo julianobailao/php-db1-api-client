@@ -54,4 +54,20 @@ class ProductTest extends TestCase
 
         $this->assertEquals($client->products()->delete(1), FakeHandler::getJson('product_get'));
     }
+
+    public function testPriceTabePaginate()
+    {
+        $client = new Client('foo.bar', '8080', 'username', 'password');
+        $client->setHandler(FakeHandler::mockResponses('login', 'branch', 'product_paginate'));
+
+        $this->assertEquals($client->products()->priceTableInfo()->paginate(), FakeHandler::getJson('product_paginate'));
+    }
+
+    public function testPriceTabeGet()
+    {
+        $client = new Client('foo.bar', '8080', 'username', 'password');
+        $client->setHandler(FakeHandler::mockResponses('login', 'branch', 'product_get'));
+
+        $this->assertEquals($client->products()->priceTableInfo()->get(12345), FakeHandler::getJson('product_get'));
+    }
 }

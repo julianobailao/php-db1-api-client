@@ -6,6 +6,7 @@ use JulianoBailao\DomusApi\Contracts\CreationContract;
 use JulianoBailao\DomusApi\Contracts\GetContract;
 use JulianoBailao\DomusApi\Core\Endpoint;
 use JulianoBailao\DomusApi\Data\ProductData;
+use JulianoBailao\DomusApi\Endpoints\Secondary\ProductPriceTable;
 
 class Products extends Endpoint implements GetContract, CreationContract
 {
